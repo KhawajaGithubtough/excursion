@@ -2,9 +2,18 @@ body {
 background-color: black;
 text-align: center;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
-.header--main{
+}
+
+.header--main
+{
    font-weight: normal;
    font-size: 50px;
-   font-color: white;
+   color: white;
 }
+.link--cta
+{
+   font-weight: normal;
+   font-size: 50px;
+   color: aquamarine;
 }
+
